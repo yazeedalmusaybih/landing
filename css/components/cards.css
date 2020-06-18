@@ -1,0 +1,22 @@
+.card {
+  text-align: center;
+  max-width: 187px;
+
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.card-big {
+  /*display: flex;
+  flex-direction: column;
+  align-items: center;*/
+  padding: 150px;
+}
+
+.card-big h2 {
+  text-align: center;
+}
