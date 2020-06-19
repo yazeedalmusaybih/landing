@@ -1,4 +1,4 @@
-/* Fonts */
+  /* Fonts */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
 
 /* Fontawesome */
@@ -8,7 +8,7 @@
 @import url('components/social.css');
 @import url('components/cards.css');
 @import url('components/footer.css');
-@import url('components/containr.css');
+@import url('components/container.css');
 /* Utilities */
 body {
   margin: 0;
